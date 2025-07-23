@@ -14,7 +14,7 @@ The COMPAS (Correctional Offender Management Profiling for Alternative Sanctions
 
 ## 📁 Contents
 
-- `compas_reclassification_analysis.ipynb`: Main notebook with all modeling steps, bias analysis, and results.
+- `SIO_Individual_Assignment_Antonopoulou_Maria_Niki (4).ipynb`: Main notebook with all modeling steps, bias analysis, and results.
 - `SIO 2024-2025 - Individual Assignment - Assignment 21.pdf`: Official assignment instructions provided by the course.
   
 ## 🧪 Models Used
